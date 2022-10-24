@@ -12,10 +12,28 @@ Doughnuts and assorted swag will be provided.
 
 ## Activities
 
-We have a few self-guided activities that you can do during the week.
+We have a few self-guided activities that you can do as a warm-up for our main event.
 
 ### Where y'all from?
 
 We have a printed map of the world and Kentucky that you can place a physical map pin on that represents your hometown. This map may come to your classroom or you can find it at our main event on November 9.
 
-![Map of the world with pins](uky-geography-poster.jpg)
+![Map of the world with pins](uky-geography-poster.jpg)    
+*Image of the printed map*
+
+(Instructors: [schedule a time to use the map](https://forms.gle/qkvtUQKXduynUKDu6) in your classroom.)
+
+### Where y'all from? (Online version!)
+
+So you can't visit the map in person. That's OK! We have an online version of the map that you can use to place a virtual map pin on that represents your hometown. [Click here to place your pin](https://outragegis.com/uky-geotag/).
+
+
+### After you placed your pin...
+
+Now what? Enter a raffle to win maps and other geography-related prizes! Complete this short form, [Wildcats Around the World](https://docs.google.com/forms/d/e/1FAIpQLSeWNSxKXnTLIKiwCCwvlvoeW70sqDK2N_B3btzDoiKXHcZn_A/viewform), where you can share fun facts about your hometown. Raffle winners will be announced on November 9, starting at 11am at our main event. Winners must be present to accept their prize.
+
+### Geocache
+
+We have a few virtual geocaches hidden on campus. Find one and tell us what it is at our November 9 event to enter a raffle. Geocache raffle winners will be announced starting at 11:30am, so submit your answer in person before that time. Winners must be present to accept their prize. [Click here to start geocache](https://outragegis.com/uky-geocache/).
+
+Note: this geocache is not a physical geocache. It is a virtual geocache that you can find with your mobile device. Make sure your browser has permission to use your location. This application will store user locations in a database for educational purposes, but no personally identifiable information is collected. Come to our main event and view a real-time map of geocache participant locations.
