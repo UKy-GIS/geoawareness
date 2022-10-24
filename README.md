@@ -6,10 +6,10 @@
 
 ## Quick overview
 
-Presentation of slides: https://uky-gis.github.io/geoawareness
+Presentation @ https://uky-gis.github.io/geoawareness
 
 ## Main Event: Be a Geographer
-November 9, 8:30 am–noon, outside Whitehall
+November 9, 8:30 am–noon, outside [Whitehall](https://uky-gis.github.io/geoawareness/map.html)
 
 Are you curious about what geographers do? Come to Whitehall on November 9 to learn about geography and enter a raffle! We will have a variety of activities, including a geocache and a map that you can place a physical map pin that represents your hometown.
 
