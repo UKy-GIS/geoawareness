@@ -1,12 +1,17 @@
 # UKy Geography Awareness Week
+
 **When**: November 2–9, 2022   
 **Where**: Around campus and online  
-**What**: Learn about maps, geography, and enter a raffle!  
+**What**: Learn about UKy geography, place a pin on a map, and enter a raffle!  
+
+## Quick overview
+
+Presentation of slides: https://uky-gis.github.io/geoawareness
 
 ## Main Event: Be a Geographer
 November 9, 8:30 am–noon, outside Whitehall
 
-Are you curious about what geographers do? Come to Whitehall on November 9 to learn about geography and enter a raffle! We will have a variety of activities, including a geocache and a map that you can place a physical map pin on that represents your hometown.
+Are you curious about what geographers do? Come to Whitehall on November 9 to learn about geography and enter a raffle! We will have a variety of activities, including a geocache and a map that you can place a physical map pin that represents your hometown.
 
 Doughnuts and assorted swag will be provided.
 
@@ -37,3 +42,9 @@ Now what? Enter a raffle to win maps and other geography-related prizes! Complet
 We have a few virtual geocaches hidden on campus. Find one and tell us what it is at our November 9 event to enter a raffle. Geocache raffle winners will be announced starting at 11:30am, so submit your answer in person before that time. Winners must be present to accept their prize. [Click here to start geocache](https://outragegis.com/uky-geocache/).
 
 Note: this geocache is not a physical geocache. It is a virtual geocache that you can find with your mobile device. Make sure your browser has permission to use your location. This application will store user locations in a database for educational purposes, but no personally identifiable information is collected. Come to our main event and view a real-time map of geocache participant locations.
+
+## Want to be a Geographer?
+
+Check out our Spring 2022 course offerings:
+
+Link to course cards?
