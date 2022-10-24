@@ -1,2 +1,2 @@
-# geoawarness-poster
-A map of the world &amp; Kentucky to accept map push pins
+# Geography Awareness Week
+Let's explore some of the events that you can participate in this week...
