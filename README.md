@@ -46,6 +46,4 @@ Note: this geocache is not a physical geocache. It is a virtual geocache that yo
 
 ## Want to be a Geographer?
 
-Check out our Spring 2022 course offerings:
-
-Link to course cards?
+Check out our [Spring 2023 course offerings](https://uky-gis.github.io/geoawareness/#/26).
