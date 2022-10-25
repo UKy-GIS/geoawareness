@@ -57,10 +57,10 @@
         data-background-opacity="0.5">
         <h2 class="r-fit-text">Geoawareness<br>Week</h2>
         <!-- <h2>Welcome</h2> -->
-        <div class="ll">
-          Image: current view of Mammoth Cave NP
+        <div class="ll" style="opacity:0.5;font-size:0.8rem">
+          Background: current webcam of Mammoth Cave NP
         </div>
-        <div class='lr'>November 2–9, 2022</div>
+        <div class='lr' >November 2–9, 2022</div>
       </section>
       <section data-pre-load
         data-background-image="https://www.outragegis.com/weather/img/MaCa.jpg"
@@ -72,11 +72,15 @@
         
 
       </section>
-
+      
+      <section data-background-image='https://www.outragegis.com/weather/img/MaCa.jpg'
+                data-background-opacity="0.3">
+                <h5 class='title'>Main event</h5>
+            </section>
       <section data-background-image='https://www.outragegis.com/weather/img/MaCa.jpg'
                 data-background-opacity="0.3">
                 <h2 class='title'>Nov 9</h2>
-                <h3>8:30am–noon<br>outside Whitehall</h3>
+                <h3>8:30 am – noon<br>outside Whitehall</h3>
             </section>
             <section 
             data-background-iframe='map.html' data-background-opacity="1" data-background-color="white">
@@ -98,7 +102,7 @@
 
             <section data-background-image='uky-geography-poster.jpg'
                 data-background-opacity="1"
-                data-background-color="white"
+                data-background-color="#d9d8db"
                 data-background-size="contain">
    
             </section>
@@ -137,7 +141,7 @@
                 data-background-opacity="0.3">
                 <h2>
                     Tell us a fun fact <br>
-                    <img src="images/WhereInTheWorld.png" class="fragment">
+                    <img src="images/WhereInTheWorld.png">
                     <br>
                     <span >about your 📍</span> 
                     
@@ -145,13 +149,16 @@
             </section>
             <section data-background-image='https://www.outragegis.com/weather/img/MaCa.jpg'
                 data-background-opacity="0.3">
-                <h2 class='title'>Geocache</h2>
-                <h3>find at least one<br>virtual cache</h3>
+                <h5 class='title'>Geocache</h5>
+            </section>
+            <section data-background-image='https://www.outragegis.com/weather/img/MaCa.jpg'
+                data-background-opacity="0.3">
+                <h2>find at least one<br>virtual cache<br>on campus</h2>
             </section>
             <section data-background-image='https://www.outragegis.com/weather/img/MaCa.jpg'
                 data-background-opacity="0.3">
                 <h2 >Old-school GPS</h2>
-                <h3>no maps<br>just distance and direction</h3>
+                <h3 class="fragment">no maps<br>just distance and direction</h3>
                 <h3 class="fragment"><a href="https://outragegis.com/uky-geocache/">on your phone</a>
                 </h3>
             </section>
@@ -177,19 +184,24 @@
             </section>
             <section data-background-image='https://www.outragegis.com/weather/img/MaCa.jpg'
                 data-background-opacity="0.3">
-                <h2 class='title'>Raffles</h2>
-                <h3>Do geocache or 📍 fun fact</h3>
+                <h5 class='title'>Raffles</h5>
+            </section>
+            <section data-background-image='https://www.outragegis.com/weather/img/MaCa.jpg'
+                data-background-opacity="0.3">
+                <h2>Geocache<br>and 📍 fun fact</h2>
             </section>
             <section data-background-image='https://www.outragegis.com/weather/img/MaCa.jpg'
                 data-background-opacity="0.3">
                 <h2 class='title'>11 am</h2>
-                <h3>Start raffles, Nov 9<br><a href="https://github.com/uky-gis/geoawareness#after-you-placed-your-pin">more info</a></h3>
+                <h3>@ Main event <a href="https://github.com/uky-gis/geoawareness#after-you-placed-your-pin">more info</a></h3>
             </section>
-            <section data-background-image='https://www.outragegis.com/weather/img/MaCa.jpg'
+            
+            <section id="courses">
+                <section data-background-image='https://www.outragegis.com/weather/img/MaCa.jpg'
                 data-background-opacity="0.3">
-                <h2 class='title'>Spring 2023</h2>
-                <h3>Our courses...</h3>
+                <h2 class='title'>Spring 2023<br>Courses</h2>
             </section>
+            
             
     </div>
   </div>
@@ -214,6 +226,27 @@
       // Learn about plugins: https://revealjs.com/plugins/
       plugins: [RevealMarkdown, RevealHighlight, RevealNotes],
     });
+
+    courseSlides()
+
+    function courseSlides() {
+        let slides = document.querySelector(".reveal .slides");
+        const imageBase = "images/2023-spring-courses/2023-spring-courses.";
+
+        for (let i = 1; i < 28; i++) {
+            const slide = document.createElement("section");
+            slide.setAttribute("data-background-image", imageBase + i.toString().padStart(3, "0") + ".jpeg");
+            slide.setAttribute("data-background-opacity", "1");
+            slide.setAttribute("data-background-color", "#323232");
+            slide.setAttribute("data-background-size", "contain");
+            slides.appendChild(slide);
+        }
+
+        slides += `<section data-background-image='https://www.outragegis.com/weather/img/MaCa.jpg'
+        data-background-opacity="0.3">
+        <h5 class='title'>Thank you!</h5>
+    </section>`
+    }
   </script>
 </body>
 
