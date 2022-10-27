@@ -1,4 +1,3 @@
-# Draft
 # UKy Geography Awareness Week
 
 **When**: November 2–9, 2022   
