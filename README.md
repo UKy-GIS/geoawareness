@@ -1,3 +1,5 @@
+[![Be a Geographer](images/banner.jpg)](https://uky-gis.github.io/geoawareness/map/)
+
 # UKy Geography Awareness Week
 
 **When**: November 2–9, 2022   
@@ -9,7 +11,7 @@
 Presentation @ https://uky-gis.github.io/geoawareness
 
 ## Main Event: Be a Geographer
-November 9, 8:30 am–noon, outside [Whitehall](https://uky-gis.github.io/geoawareness/map.html)
+November 9, 8:30 am–noon, outside [Whitehall](https://uky-gis.github.io/geoawareness/map/)
 
 Are you curious about what geographers do? Come to Whitehall on November 9 to learn about geography and enter a raffle! We will have a variety of activities, including a geocache and a map that you can place a physical map pin that represents your hometown.
 
@@ -23,7 +25,7 @@ We have a few self-guided activities that you can do as a warm-up for our main e
 
 We have a printed map of the world and Kentucky that you can place a physical map pin on that represents your hometown. This map may come to your classroom or you can find it at our main event on November 9.
 
-![Map of the world with pins](uky-geography-poster.jpg)    
+![Map of the world with pins](images/uky-geography-poster.jpg)    
 *Image of the printed map*
 
 (Instructors: [schedule a time to use the map](https://forms.gle/qkvtUQKXduynUKDu6) in your classroom.)
