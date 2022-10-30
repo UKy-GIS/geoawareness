@@ -35,7 +35,7 @@ We have a printed map of the world and Kentucky that you can place a physical ma
 So you can't visit the map in person. That's OK! We have an online version of the map that you can use to place a virtual map pin on that represents your hometown. [Click here to place your pin](https://outragegis.com/uky-geotag/).
 
 
-### After you placed your pin...
+### After you've placed your pin...
 
 Now what? Enter a raffle to win maps and other geography-related prizes! Complete this short form, [Wildcats Around the World](https://docs.google.com/forms/d/e/1FAIpQLSeWNSxKXnTLIKiwCCwvlvoeW70sqDK2N_B3btzDoiKXHcZn_A/viewform), where you can share fun facts about your hometown. Raffle winners will be announced on November 9, starting at 11am at our main event. Winners must be present to accept their prize.
 
