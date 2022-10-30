@@ -238,10 +238,14 @@
             slides.appendChild(slide);
         }
 
-        slides += `<section data-background-image='https://www.outragegis.com/weather/img/MaCa.jpg'
-        data-background-opacity="0.3">
-        <h5 class='title'>Thank you!</h5>
-    </section>`
+        const end = document.createElement("section");
+        end.setAttribute("data-background-image", 'https://www.outragegis.com/weather/img/MaCa.jpg');
+        end.setAttribute("data-background-opacity", "0.4");
+        end.setAttribute("data-background-color", "#323232");
+        slides.appendChild(end);
+
+        end.innerHTML = `
+        <h5 class='title'>Thank you!</h5>`
     }
   </script>
 </body>
