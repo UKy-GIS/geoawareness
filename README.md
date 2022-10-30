@@ -37,13 +37,17 @@ So you can't visit the map in person. That's OK! We have an online version of th
 
 ### After you've placed your pin...
 
-Now what? Enter a raffle to win maps and other geography-related prizes! Complete this short form, [Wildcats Around the World](https://docs.google.com/forms/d/e/1FAIpQLSeWNSxKXnTLIKiwCCwvlvoeW70sqDK2N_B3btzDoiKXHcZn_A/viewform), where you can share fun facts about your hometown. Raffle winners will be announced on November 9, starting at 11am at our main event. Winners must be present to accept their prize.
+Now what? Enter a raffle to win maps and other geography-related prizes! Complete this short form, [Wildcats Around the World](https://docs.google.com/forms/d/e/1FAIpQLSeWNSxKXnTLIKiwCCwvlvoeW70sqDK2N_B3btzDoiKXHcZn_A/viewform), where you can share fun facts about the place your pin marks. 
 
 ### Geocache
 
-We have a few virtual geocaches hidden on campus. Find one and tell us what it is at our November 9 event to enter a raffle. Geocache raffle winners will be announced starting at 11:30am, so submit your answer in person before that time. Winners must be present to accept their prize. [Click here to start geocache](https://outragegis.com/uky-geocache/).
+We have a few virtual geocaches hidden on campus. Find one and tell us what it is at our November 9 event to enter a raffle. Geocache raffle winners will be announced starting at 11:30am, so submit your answer in person before that time. [Click here to start geocache](https://outragegis.com/uky-geocache/).
 
 Note: this geocache is not a physical geocache. It is a virtual geocache that you can find with your mobile device. Make sure your browser has permission to use your location. This application will store user locations in a database for educational purposes, but no personally identifiable information is collected. Come to our main event and view a real-time map of geocache participant locations.
+
+### Raffles
+
+We will have topographic maps for popular hiking destinations in Kentucky to give away. Raffles start at 11 am on November 9. To enter a raffle, you should participate in one of the above activities; place a pin on the map (and provide a fun fact about this location) or find a virtual cache in the Geocache. Winners must be present to accept their prize.
 
 ## Want to be a Geographer?
 
