@@ -126,12 +126,22 @@
       .title h1 {
         font-size: 2.1rem;
       }
+
+      .page-title {
+        font-size: 4rem;
+        font-weight: 700;
+        position: absolute;
+        top: 20px;
+        left: 20px;
+        z-index: 500;
+      }
     }
   </style>
 </head>
 
 <body>
   <div id="map"></div>
+  <div class="page-title">Map of<br>event locations</div>
   <div class="credits">
     <a href="https://geography.as.uky.edu/"><img src="https://uky-gis.github.io/graphics/logo-75th-01.svg"
         alt="Visit our program!"></a>
@@ -139,10 +149,10 @@
   <script src="leaflet.js"></script>
   <script>
     const map = L.map("map", {
-      center: [38.034713587352506, -84.50425958675538],
+      center: [38.036, -84.50425958675538],
       zoomControl: false,
       attributionControl: false,
-      zoom: 17,
+      zoom: 16,
     });
 
     L.control.zoom({
@@ -184,13 +194,38 @@
     const marker = L.marker([38.034713587352506, -84.50425958675538], { icon: pin })
     popup = `
         <h2>Be a Geographer</h2>
+        <p>October 31</p>
         <p>Noon–3PM, Alumni Commons</p>
         <p>Learn about UKy Geography, place a pin on a map, and raffles!</p>
         
         <h1>🧁📍🗺️</h1>
         `
     marker.bindPopup(popup).addTo(map)
-    marker.openPopup();
+    // marker.openPopup();
+
+    const m2 = L.marker([38.032744710772995, -84.50159709047331], { icon: pin })
+    popup = `
+        <h2>Geoguesser tournament</h2>
+        <p>October 30</p>
+        <p>6PM, Young basement lab B-28B</p>
+        <p>Play Geoguesser with geogeeks for prizes!</p>
+        
+        <h1>🍕📸🗺️</h1>
+        `
+    m2.bindPopup(popup).addTo(map)
+    // m2.openPopup();
+
+    const m3 = L.marker([38.039880389085354, -84.50278423584982], { icon: pin })
+    popup = `
+        <h2>Curiosity Fair</h2>
+        <p>November 6</p>
+        <p>4PM–6PM, Student Center Ballroom</p>
+        <p>Interact with a digital twin of campus.</p>
+        
+        <h1>✨🔮🗺️</h1>
+        `
+    m3.bindPopup(popup).addTo(map)
+    // m3.openPopup();
 
 
   </script>
